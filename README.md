@@ -35,4 +35,5 @@ No entanto, a experiência de desenvolver este projeto foi uma jornada de aprend
 
 * **Dataset de Redações**: UOL Redações XML (https://github.com/gpassero/uol-redacoes-xml)
 * **Modelo pré-treinado**: https://huggingface.co/amadeusai/Amadeus-Verbo-FI-Qwen2.5-0.5B-PT-BR-Instruct
+* **Modelo de embeddings**: https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
 * **Bibliotecas Essenciais**: Hugging Face Transformers, PEFT, Datasets, Evaluate, Sentence Transformers, ChromaDB.
